@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 venv_signavoz/
+data/calibracion_intento2/
